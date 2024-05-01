@@ -7,7 +7,7 @@ Easily convert a File object to a Tempfile object.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'rubyt'
+gem 'file_to_tempfile'
 ```
 
 And then execute:
