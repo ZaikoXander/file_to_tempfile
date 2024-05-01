@@ -1,4 +1,6 @@
 module FileToTempfile
   VERSION: String
   # See the writing guide of rbs: https://github.com/ruby/rbs#guides
+
+  def self.convert: (File file, { using_path: bool }) -> Tempfile
 end
